@@ -4,7 +4,7 @@ Code & datasets accompanying the journal article:
 
 ### 'Canopy composition and spatial configuration influences beta diversity in temperate regrowth forests of southeastern Australia'
 
-published in Drone MDPI by:
+published in Drones MDPI by:
 
 Anu Singh (1,2), Benjamin Wagner (2), Sabine Kasel (2) , Patrick J. Baker (2), Craig R. Nitschke (2)
 
